@@ -1,2 +1,2 @@
 # html5-halado
-HTML5 haladó tanfolyam anyaga.
+HTML5 haladó tanfolyam anyagai.
